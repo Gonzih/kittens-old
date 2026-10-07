@@ -1,3 +1,11 @@
+# Retired Kittens SDK
+
+This repository preserves the retired Kittens SDK (crate versions 0.1.x). It is archived and no longer maintained.
+
+The `kittens` crate version 0.2.0 and later is the new Kittens AI coding harness, with an unrelated, incompatible API. Existing 0.1.x releases remain available unchanged. The harness repository is https://github.com/Gonzih/kittens (currently private).
+
+---
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Gonzih/kittens-rs/v0.1.1/assets/kittens-logo.webp" width="280" alt="Kittens logo: an orange tabby and a tuxedo kitten playing with a coral ball of yarn">
 </p>
